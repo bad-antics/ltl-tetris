@@ -1,0 +1,15 @@
+// ltl-tetris/main.ltl
+//
+// Terminal Tetris with super-rotation system.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-tetris v0.1.0")
+    io::println("Terminal Tetris with super-rotation system.")
+    0
+}
